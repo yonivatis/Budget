@@ -1,0 +1,14 @@
+body {
+    background-image: url("Assets/Images/background-color.webp");
+}
+
+h1 {
+    color: white;
+
+}
+div.card-body{
+    color: slateblue;
+}
+::-webkit-scrollbar {
+    display: none;
+}
